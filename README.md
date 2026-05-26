@@ -1,9 +1,3 @@
-### 2. Projeto: Mini Sistema Bancário
-
-* **Nome sugerido para o repositório:** `mini-sistema-bancario-java`
-* **Conteúdo do `README.md`:**
-
-```markdown
 # 💰 Mini Sistema Bancário em Java (Backend)
 
 Status do Projeto: 🚀 Concluído
